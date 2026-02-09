@@ -3,8 +3,6 @@
 
 ---
 
-## 🇺🇸 English
-
 ### Overview
 This project demonstrates a **data analytics pipeline** built with **SQL** and **Power BI**, following the **Medallion Architecture** approach (Bronze → Silver → Gold).
 
@@ -71,8 +69,8 @@ Power BI is used to:
 - Build an end-to-end SQL to Power BI analytics workflow
 
 ---
-
-## 🇻🇳 Tiếng Việt
+---
+---
 
 ### Tổng quan
 Dự án xây dựng **pipeline phân tích dữ liệu** bằng **SQL và Power BI**, áp dụng mô hình **Medallion Architecture** (Bronze → Silver → Gold).
